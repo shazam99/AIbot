@@ -1,0 +1,1006 @@
+pip install --upgrade sentence-transformersC:\data>pip uninstall -y libclang==16.0.6
+Found existing installation: libclang 16.0.6
+Uninstalling libclang-16.0.6:
+  Successfully uninstalled libclang-16.0.6
+
+C:\data>pip uninstall -y lxml==4.9.3
+Found existing installation: lxml 4.9.3
+Uninstalling lxml-4.9.3:
+  Successfully uninstalled lxml-4.9.3
+
+C:\data>pip uninstall -y Markdown==3.4.4
+Found existing installation: Markdown 3.4.4
+Uninstalling Markdown-3.4.4:
+  Successfully uninstalled Markdown-3.4.4
+
+C:\data>pip uninstall -y MarkupSafe==2.1.3
+Found existing installation: MarkupSafe 2.1.3
+Uninstalling MarkupSafe-2.1.3:
+  Successfully uninstalled MarkupSafe-2.1.3
+
+C:\data>pip uninstall -y mpmath==1.3.0
+Found existing installation: mpmath 1.3.0
+Uninstalling mpmath-1.3.0:
+  Successfully uninstalled mpmath-1.3.0
+
+C:\data>pip uninstall -y multidict==6.0.4
+Found existing installation: multidict 6.0.4
+Uninstalling multidict-6.0.4:
+  Successfully uninstalled multidict-6.0.4
+
+C:\data>pip uninstall -y multiprocess==0.70.15
+Found existing installation: multiprocess 0.70.15
+Uninstalling multiprocess-0.70.15:
+  Successfully uninstalled multiprocess-0.70.15
+
+C:\data>pip uninstall -y mysql-connector-python==9.2.0
+Found existing installation: mysql-connector-python 9.2.0
+Uninstalling mysql-connector-python-9.2.0:
+  Successfully uninstalled mysql-connector-python-9.2.0
+
+C:\data>pip uninstall -y networkx==3.1
+Found existing installation: networkx 3.1
+Uninstalling networkx-3.1:
+  Successfully uninstalled networkx-3.1
+
+C:\data>pip uninstall -y nltk==3.8.1
+Found existing installation: nltk 3.8.1
+Uninstalling nltk-3.8.1:
+  Successfully uninstalled nltk-3.8.1
+
+C:\data>pip uninstall -y numpy==1.24.3
+Found existing installation: numpy 1.24.3
+Uninstalling numpy-1.24.3:
+  Successfully uninstalled numpy-1.24.3
+
+C:\data>pip uninstall -y oauthlib==3.2.2
+Found existing installation: oauthlib 3.2.2
+Uninstalling oauthlib-3.2.2:
+  Successfully uninstalled oauthlib-3.2.2
+
+C:\data>pip uninstall -y opt-einsum==3.3.0
+Found existing installation: opt-einsum 3.3.0
+Uninstalling opt-einsum-3.3.0:
+  Successfully uninstalled opt-einsum-3.3.0
+
+C:\data>pip uninstall -y packaging==23.1
+Found existing installation: packaging 23.1
+Uninstalling packaging-23.1:
+  Successfully uninstalled packaging-23.1
+
+C:\data>pip uninstall -y pandas==2.0.3
+Found existing installation: pandas 2.0.3
+Uninstalling pandas-2.0.3:
+  Successfully uninstalled pandas-2.0.3
+
+C:\data>pip uninstall -y pillow==11.1.0
+Found existing installation: pillow 11.1.0
+Uninstalling pillow-11.1.0:
+  Successfully uninstalled pillow-11.1.0
+
+C:\data>pip uninstall -y portalocker==2.7.0
+Found existing installation: portalocker 2.7.0
+Uninstalling portalocker-2.7.0:
+  Successfully uninstalled portalocker-2.7.0
+
+C:\data>pip uninstall -y protobuf==4.23.4
+Found existing installation: protobuf 4.23.4
+Uninstalling protobuf-4.23.4:
+  Successfully uninstalled protobuf-4.23.4
+
+C:\data>pip uninstall -y psutil==5.9.5
+Found existing installation: psutil 5.9.5
+Uninstalling psutil-5.9.5:
+  Successfully uninstalled psutil-5.9.5
+
+C:\data>pip uninstall -y pyarrow==12.0.1
+Found existing installation: pyarrow 12.0.1
+Uninstalling pyarrow-12.0.1:
+  Successfully uninstalled pyarrow-12.0.1
+
+C:\data>pip uninstall -y pyasn1==0.5.0
+Found existing installation: pyasn1 0.5.0
+Uninstalling pyasn1-0.5.0:
+  Successfully uninstalled pyasn1-0.5.0
+
+C:\data>pip uninstall -y pyasn1-modules==0.3.0
+Found existing installation: pyasn1-modules 0.3.0
+Uninstalling pyasn1-modules-0.3.0:
+  Successfully uninstalled pyasn1-modules-0.3.0
+
+C:\data>pip uninstall -y PyMuPDF==1.25.3
+Found existing installation: PyMuPDF 1.25.3
+Uninstalling PyMuPDF-1.25.3:
+  Successfully uninstalled PyMuPDF-1.25.3
+
+C:\data>pip uninstall -y python-dateutil==2.8.2
+Found existing installation: python-dateutil 2.8.2
+Uninstalling python-dateutil-2.8.2:
+  Successfully uninstalled python-dateutil-2.8.2
+
+C:\data>pip uninstall -y python-dotenv==1.0.0
+Found existing installation: python-dotenv 1.0.0
+Uninstalling python-dotenv-1.0.0:
+  Successfully uninstalled python-dotenv-1.0.0
+
+C:\data>pip uninstall -y pytz==2023.3
+Found existing installation: pytz 2023.3
+Uninstalling pytz-2023.3:
+  Successfully uninstalled pytz-2023.3
+
+C:\data>pip uninstall -y pywin32==306
+Found existing installation: pywin32 306
+Uninstalling pywin32-306:
+  Successfully uninstalled pywin32-306
+
+C:\data>pip uninstall -y PyYAML==6.0.1
+Found existing installation: PyYAML 6.0.1
+Uninstalling PyYAML-6.0.1:
+  Successfully uninstalled PyYAML-6.0.1
+
+C:\data>pip uninstall -y regex==2023.6.3
+Found existing installation: regex 2023.6.3
+Uninstalling regex-2023.6.3:
+  Successfully uninstalled regex-2023.6.3
+
+C:\data>pip uninstall -y requests==2.31.0
+Found existing installation: requests 2.31.0
+Uninstalling requests-2.31.0:
+  Successfully uninstalled requests-2.31.0
+
+C:\data>pip uninstall -y requests-oauthlib==1.3.1
+Found existing installation: requests-oauthlib 1.3.1
+Uninstalling requests-oauthlib-1.3.1:
+  Successfully uninstalled requests-oauthlib-1.3.1
+
+C:\data>pip uninstall -y responses==0.18.0
+Found existing installation: responses 0.18.0
+Uninstalling responses-0.18.0:
+  Successfully uninstalled responses-0.18.0
+
+C:\data>pip uninstall -y rouge-score==0.1.2
+Found existing installation: rouge-score 0.1.2
+Uninstalling rouge-score-0.1.2:
+  Successfully uninstalled rouge-score-0.1.2
+
+C:\data>pip uninstall -y rsa==4.9
+Found existing installation: rsa 4.9
+Uninstalling rsa-4.9:
+  Successfully uninstalled rsa-4.9
+
+C:\data>pip uninstall -y sacrebleu==2.3.1
+Found existing installation: sacrebleu 2.3.1
+Uninstalling sacrebleu-2.3.1:
+  Successfully uninstalled sacrebleu-2.3.1
+
+C:\data>pip uninstall -y safetensors==0.5.2
+Found existing installation: safetensors 0.5.2
+Uninstalling safetensors-0.5.2:
+  Successfully uninstalled safetensors-0.5.2
+
+C:\data>pip uninstall -y scikit-learn==1.6.1
+Found existing installation: scikit-learn 1.6.1
+Uninstalling scikit-learn-1.6.1:
+  Successfully uninstalled scikit-learn-1.6.1
+
+C:\data>pip uninstall -y scipy==1.15.2
+Found existing installation: scipy 1.15.2
+Uninstalling scipy-1.15.2:
+  Successfully uninstalled scipy-1.15.2
+
+C:\data>pip uninstall -y six==1.16.0
+Found existing installation: six 1.16.0
+Uninstalling six-1.16.0:
+  Successfully uninstalled six-1.16.0
+
+C:\data>pip uninstall -y sniffio==1.3.0
+Found existing installation: sniffio 1.3.0
+Uninstalling sniffio-1.3.0:
+  Successfully uninstalled sniffio-1.3.0
+
+C:\data>pip uninstall -y starlette==0.27.0
+Found existing installation: starlette 0.27.0
+Uninstalling starlette-0.27.0:
+  Successfully uninstalled starlette-0.27.0
+
+C:\data>pip uninstall -y sympy==1.13.1
+Found existing installation: sympy 1.13.1
+Uninstalling sympy-1.13.1:
+  Successfully uninstalled sympy-1.13.1
+
+C:\data>pip uninstall -y tabulate==0.9.0
+Found existing installation: tabulate 0.9.0
+Uninstalling tabulate-0.9.0:
+  Successfully uninstalled tabulate-0.9.0
+
+C:\data>pip uninstall -y tensorboard==2.13.0
+Found existing installation: tensorboard 2.13.0
+Uninstalling tensorboard-2.13.0:
+  Successfully uninstalled tensorboard-2.13.0
+
+C:\data>pip uninstall -y tensorboard-data-server==0.7.1
+Found existing installation: tensorboard-data-server 0.7.1
+Uninstalling tensorboard-data-server-0.7.1:
+  Successfully uninstalled tensorboard-data-server-0.7.1
+
+C:\data>pip uninstall -y tensorflow==2.13.0
+Found existing installation: tensorflow 2.13.0
+Uninstalling tensorflow-2.13.0:
+  Successfully uninstalled tensorflow-2.13.0
+
+C:\data>pip uninstall -y tensorflow-estimator==2.13.0
+Found existing installation: tensorflow-estimator 2.13.0
+Uninstalling tensorflow-estimator-2.13.0:
+  Successfully uninstalled tensorflow-estimator-2.13.0
+
+C:\data>pip uninstall -y tensorflow-io-gcs-filesystem==0.31.0
+Found existing installation: tensorflow-io-gcs-filesystem 0.31.0
+Uninstalling tensorflow-io-gcs-filesystem-0.31.0:
+  Successfully uninstalled tensorflow-io-gcs-filesystem-0.31.0
+
+C:\data>pip uninstall -y termcolor==2.3.0
+Found existing installation: termcolor 2.3.0
+Uninstalling termcolor-2.3.0:
+  Successfully uninstalled termcolor-2.3.0
+
+C:\data>pip uninstall -y threadpoolctl==3.5.0
+Found existing installation: threadpoolctl 3.5.0
+Uninstalling threadpoolctl-3.5.0:
+  Successfully uninstalled threadpoolctl-3.5.0
+
+C:\data>pip uninstall -y tokenizers==0.21.0
+Found existing installation: tokenizers 0.21.0
+Uninstalling tokenizers-0.21.0:
+  Successfully uninstalled tokenizers-0.21.0
+
+C:\data>pip uninstall -y tqdm==4.65.0
+Found existing installation: tqdm 4.65.0
+Uninstalling tqdm-4.65.0:
+  Successfully uninstalled tqdm-4.65.0
+
+C:\data>pip uninstall -y tzdata==2023.3
+Found existing installation: tzdata 2023.3
+Uninstalling tzdata-2023.3:
+  Successfully uninstalled tzdata-2023.3
+
+C:\data>pip uninstall -y urllib3==1.26.16
+Found existing installation: urllib3 1.26.16
+Uninstalling urllib3-1.26.16:
+  Successfully uninstalled urllib3-1.26.16
+
+C:\data>pip uninstall -y uvicorn==0.23.1
+Found existing installation: uvicorn 0.23.1
+Uninstalling uvicorn-0.23.1:
+  Successfully uninstalled uvicorn-0.23.1
+
+C:\data>pip uninstall -y watchfiles==0.19.0
+Found existing installation: watchfiles 0.19.0
+Uninstalling watchfiles-0.19.0:
+  Successfully uninstalled watchfiles-0.19.0
+
+C:\data>pip uninstall -y websockets==11.0.3
+Found existing installation: websockets 11.0.3
+Uninstalling websockets-11.0.3:
+  Successfully uninstalled websockets-11.0.3
+
+C:\data>pip uninstall -y Werkzeug==2.3.6
+Found existing installation: Werkzeug 2.3.6
+Uninstalling Werkzeug-2.3.6:
+  Successfully uninstalled Werkzeug-2.3.6
+
+C:\data>pip uninstall -y wrapt==1.15.0
+Found existing installation: wrapt 1.15.0
+Uninstalling wrapt-1.15.0:
+  Successfully uninstalled wrapt-1.15.0
+
+C:\data>pip uninstall -y xxhash==3.2.0
+Found existing installation: xxhash 3.2.0
+Uninstalling xxhash-3.2.0:
+  Successfully uninstalled xxhash-3.2.0
+
+C:\data>pip uninstall -y yarl==1.9.2
+Found existing installation: yarl 1.9.2
+Uninstalling yarl-1.9.2:
+  Successfully uninstalled yarl-1.9.2
+
+C:\data>pip install numpy==1.24.3
+Collecting numpy==1.24.3
+  Using cached numpy-1.24.3-cp311-cp311-win_amd64.whl.metadata (5.6 kB)
+Using cached numpy-1.24.3-cp311-cp311-win_amd64.whl (14.8 MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.24.3
+
+C:\data>pip install torch==2.5.1
+Collecting torch==2.5.1
+  Using cached torch-2.5.1-cp311-cp311-win_amd64.whl.metadata (28 kB)
+Collecting filelock (from torch==2.5.1)
+  Downloading filelock-3.17.0-py3-none-any.whl.metadata (2.9 kB)
+Collecting typing-extensions>=4.8.0 (from torch==2.5.1)
+  Using cached typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting networkx (from torch==2.5.1)
+  Downloading networkx-3.4.2-py3-none-any.whl.metadata (6.3 kB)
+Collecting jinja2 (from torch==2.5.1)
+  Downloading jinja2-3.1.5-py3-none-any.whl.metadata (2.6 kB)
+Collecting fsspec (from torch==2.5.1)
+  Downloading fsspec-2025.2.0-py3-none-any.whl.metadata (11 kB)
+Collecting sympy==1.13.1 (from torch==2.5.1)
+  Downloading sympy-1.13.1-py3-none-any.whl.metadata (12 kB)
+Collecting mpmath<1.4,>=1.1.0 (from sympy==1.13.1->torch==2.5.1)
+  Downloading mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch==2.5.1)
+  Downloading MarkupSafe-3.0.2-cp311-cp311-win_amd64.whl.metadata (4.1 kB)
+Using cached torch-2.5.1-cp311-cp311-win_amd64.whl (203.1 MB)
+Downloading sympy-1.13.1-py3-none-any.whl (6.2 MB)
+   ---------------------------------------- 6.2/6.2 MB 3.5 MB/s eta 0:00:00
+Using cached typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Downloading filelock-3.17.0-py3-none-any.whl (16 kB)
+Downloading fsspec-2025.2.0-py3-none-any.whl (184 kB)
+Downloading jinja2-3.1.5-py3-none-any.whl (134 kB)
+Downloading networkx-3.4.2-py3-none-any.whl (1.7 MB)
+   ---------------------------------------- 1.7/1.7 MB 3.5 MB/s eta 0:00:00
+Downloading MarkupSafe-3.0.2-cp311-cp311-win_amd64.whl (15 kB)
+Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+   ---------------------------------------- 536.2/536.2 kB 4.4 MB/s eta 0:00:00
+Installing collected packages: mpmath, typing-extensions, sympy, networkx, MarkupSafe, fsspec, filelock, jinja2, torch
+Successfully installed MarkupSafe-3.0.2 filelock-3.17.0 fsspec-2025.2.0 jinja2-3.1.5 mpmath-1.3.0 networkx-3.4.2 sympy-1.13.1 torch-2.5.1 typing-e
+xtensions-4.12.2
+
+C:\data>pip install faiss-cpu==1.7.4
+Collecting faiss-cpu==1.7.4
+  Using cached faiss_cpu-1.7.4-cp311-cp311-win_amd64.whl.metadata (1.4 kB)
+Using cached faiss_cpu-1.7.4-cp311-cp311-win_amd64.whl (10.8 MB)
+Installing collected packages: faiss-cpu
+Successfully installed faiss-cpu-1.7.4
+
+C:\data>pip install transformers==4.35.2
+Collecting transformers==4.35.2
+  Downloading transformers-4.35.2-py3-none-any.whl.metadata (123 kB)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers==4.35.2) (3.17
+.0)
+Collecting huggingface-hub<1.0,>=0.16.4 (from transformers==4.35.2)
+  Downloading huggingface_hub-0.29.1-py3-none-any.whl.metadata (13 kB)
+Requirement already satisfied: numpy>=1.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers==4.35.2) (1
+.24.3)
+Collecting packaging>=20.0 (from transformers==4.35.2)
+  Downloading packaging-24.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting pyyaml>=5.1 (from transformers==4.35.2)
+  Downloading PyYAML-6.0.2-cp311-cp311-win_amd64.whl.metadata (2.1 kB)
+Collecting regex!=2019.12.17 (from transformers==4.35.2)
+  Downloading regex-2024.11.6-cp311-cp311-win_amd64.whl.metadata (41 kB)
+Collecting requests (from transformers==4.35.2)
+  Downloading requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting tokenizers<0.19,>=0.14 (from transformers==4.35.2)
+  Downloading tokenizers-0.15.2-cp311-none-win_amd64.whl.metadata (6.8 kB)
+Collecting safetensors>=0.3.1 (from transformers==4.35.2)
+  Downloading safetensors-0.5.2-cp38-abi3-win_amd64.whl.metadata (3.9 kB)
+Collecting tqdm>=4.27 (from transformers==4.35.2)
+  Downloading tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub<1.0
+,>=0.16.4->transformers==4.35.2) (2025.2.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub<1.0,>=0.16.4->transformers==4.35.2) (4.12.2)
+Collecting colorama (from tqdm>=4.27->transformers==4.35.2)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting charset-normalizer<4,>=2 (from requests->transformers==4.35.2)
+  Downloading charset_normalizer-3.4.1-cp311-cp311-win_amd64.whl.metadata (36 kB)
+Collecting idna<4,>=2.5 (from requests->transformers==4.35.2)
+  Downloading idna-3.10-py3-none-any.whl.metadata (10 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->transformers==4.35.2)
+  Downloading urllib3-2.3.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting certifi>=2017.4.17 (from requests->transformers==4.35.2)
+  Downloading certifi-2025.1.31-py3-none-any.whl.metadata (2.5 kB)
+Downloading transformers-4.35.2-py3-none-any.whl (7.9 MB)
+   ---------------------------------------- 7.9/7.9 MB 3.5 MB/s eta 0:00:00
+Downloading huggingface_hub-0.29.1-py3-none-any.whl (468 kB)
+Downloading packaging-24.2-py3-none-any.whl (65 kB)
+Downloading PyYAML-6.0.2-cp311-cp311-win_amd64.whl (161 kB)
+Downloading regex-2024.11.6-cp311-cp311-win_amd64.whl (274 kB)
+Downloading safetensors-0.5.2-cp38-abi3-win_amd64.whl (303 kB)
+Downloading tokenizers-0.15.2-cp311-none-win_amd64.whl (2.2 MB)
+   ---------------------------------------- 2.2/2.2 MB 4.0 MB/s eta 0:00:00
+Downloading tqdm-4.67.1-py3-none-any.whl (78 kB)
+Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+Downloading certifi-2025.1.31-py3-none-any.whl (166 kB)
+Downloading charset_normalizer-3.4.1-cp311-cp311-win_amd64.whl (102 kB)
+Downloading idna-3.10-py3-none-any.whl (70 kB)
+Downloading urllib3-2.3.0-py3-none-any.whl (128 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: urllib3, safetensors, regex, pyyaml, packaging, idna, colorama, charset-normalizer, certifi, tqdm, requests, huggin
+gface-hub, tokenizers, transformers
+Successfully installed certifi-2025.1.31 charset-normalizer-3.4.1 colorama-0.4.6 huggingface-hub-0.29.1 idna-3.10 packaging-24.2 pyyaml-6.0.2 rege
+x-2024.11.6 requests-2.32.3 safetensors-0.5.2 tokenizers-0.15.2 tqdm-4.67.1 transformers-4.35.2 urllib3-2.3.0
+
+C:\data>pip install sentence-transformers==2.2.2
+Collecting sentence-transformers==2.2.2
+  Downloading sentence-transformers-2.2.2.tar.gz (85 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: transformers<5.0.0,>=4.6.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-
+transformers==2.2.2) (4.35.2)
+Requirement already satisfied: tqdm in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers==2.2.2) (
+4.67.1)
+Requirement already satisfied: torch>=1.6.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers==
+2.2.2) (2.5.1)
+Collecting torchvision (from sentence-transformers==2.2.2)
+  Downloading torchvision-0.21.0-cp311-cp311-win_amd64.whl.metadata (6.3 kB)
+Requirement already satisfied: numpy in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers==2.2.2)
+(1.24.3)
+Collecting scikit-learn (from sentence-transformers==2.2.2)
+  Downloading scikit_learn-1.6.1-cp311-cp311-win_amd64.whl.metadata (15 kB)
+Collecting scipy (from sentence-transformers==2.2.2)
+  Downloading scipy-1.15.2-cp311-cp311-win_amd64.whl.metadata (60 kB)
+Collecting nltk (from sentence-transformers==2.2.2)
+  Downloading nltk-3.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting sentencepiece (from sentence-transformers==2.2.2)
+  Downloading sentencepiece-0.2.0-cp311-cp311-win_amd64.whl.metadata (8.3 kB)
+Requirement already satisfied: huggingface-hub>=0.4.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-tran
+sformers==2.2.2) (0.29.1)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.4.0->sen
+tence-transformers==2.2.2) (3.17.0)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.
+4.0->sentence-transformers==2.2.2) (2025.2.0)
+Requirement already satisfied: packaging>=20.9 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.4
+.0->sentence-transformers==2.2.2) (24.2)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.4.0->
+sentence-transformers==2.2.2) (6.0.2)
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.4.0->sen
+tence-transformers==2.2.2) (2.32.3)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub>=0.4.0->sentence-transformers==2.2.2) (4.12.2)
+Requirement already satisfied: networkx in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.6.0->sentence-tran
+sformers==2.2.2) (3.4.2)
+Requirement already satisfied: jinja2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.6.0->sentence-transf
+ormers==2.2.2) (3.1.5)
+Requirement already satisfied: sympy==1.13.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.6.0->sentence
+-transformers==2.2.2) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sympy==1.13.1->to
+rch>=1.6.0->sentence-transformers==2.2.2) (1.3.0)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm->sentence-transformers
+==2.2.2) (0.4.6)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<5.0.0
+,>=4.6.0->sentence-transformers==2.2.2) (2024.11.6)
+Requirement already satisfied: tokenizers<0.19,>=0.14 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<
+5.0.0,>=4.6.0->sentence-transformers==2.2.2) (0.15.2)
+Requirement already satisfied: safetensors>=0.3.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<5.0.
+0,>=4.6.0->sentence-transformers==2.2.2) (0.5.2)
+Collecting click (from nltk->sentence-transformers==2.2.2)
+  Downloading click-8.1.8-py3-none-any.whl.metadata (2.3 kB)
+Collecting joblib (from nltk->sentence-transformers==2.2.2)
+  Downloading joblib-1.4.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=3.1.0 (from scikit-learn->sentence-transformers==2.2.2)
+  Downloading threadpoolctl-3.5.0-py3-none-any.whl.metadata (13 kB)
+Collecting torch>=1.6.0 (from sentence-transformers==2.2.2)
+  Downloading torch-2.6.0-cp311-cp311-win_amd64.whl.metadata (28 kB)
+Collecting pillow!=8.3.*,>=5.3.0 (from torchvision->sentence-transformers==2.2.2)
+  Downloading pillow-11.1.0-cp311-cp311-win_amd64.whl.metadata (9.3 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from jinja2->torch>=1.6.0
+->sentence-transformers==2.2.2) (3.0.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->h
+uggingface-hub>=0.4.0->sentence-transformers==2.2.2) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->huggingface-h
+ub>=0.4.0->sentence-transformers==2.2.2) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub>=0.4.0->sentence-transformers==2.2.2) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub>=0.4.0->sentence-transformers==2.2.2) (2025.1.31)
+Downloading nltk-3.9.1-py3-none-any.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 3.5 MB/s eta 0:00:00
+Downloading scikit_learn-1.6.1-cp311-cp311-win_amd64.whl (11.1 MB)
+   ---------------------------------------- 11.1/11.1 MB 3.8 MB/s eta 0:00:00
+Downloading scipy-1.15.2-cp311-cp311-win_amd64.whl (41.2 MB)
+   ---------------------------------------- 41.2/41.2 MB 3.5 MB/s eta 0:00:00
+Downloading sentencepiece-0.2.0-cp311-cp311-win_amd64.whl (991 kB)
+   ---------------------------------------- 991.5/991.5 kB 4.7 MB/s eta 0:00:00
+Downloading torchvision-0.21.0-cp311-cp311-win_amd64.whl (1.6 MB)
+   ---------------------------------------- 1.6/1.6 MB 3.5 MB/s eta 0:00:00
+Downloading torch-2.6.0-cp311-cp311-win_amd64.whl (204.2 MB)
+   ---------------------------------------- 204.2/204.2 MB 3.1 MB/s eta 0:00:00
+Downloading joblib-1.4.2-py3-none-any.whl (301 kB)
+Downloading pillow-11.1.0-cp311-cp311-win_amd64.whl (2.6 MB)
+   ---------------------------------------- 2.6/2.6 MB 3.7 MB/s eta 0:00:00
+Downloading threadpoolctl-3.5.0-py3-none-any.whl (18 kB)
+Downloading click-8.1.8-py3-none-any.whl (98 kB)
+Building wheels for collected packages: sentence-transformers
+  Building wheel for sentence-transformers (setup.py) ... done
+  Created wheel for sentence-transformers: filename=sentence_transformers-2.2.2-py3-none-any.whl size=125959 sha256=5d525fd4b635cb18a558770109c4fd
+471c9a9f3b1ac0a468621aa5a28b5d032e
+  Stored in directory: c:\users\hp\appdata\local\pip\cache\wheels\ff\27\bf\ffba8b318b02d7f691a57084ee154e26ed24d012b0c7805881
+Successfully built sentence-transformers
+Installing collected packages: sentencepiece, threadpoolctl, scipy, pillow, joblib, click, torch, scikit-learn, nltk, torchvision, sentence-transf
+ormers
+  Attempting uninstall: torch
+    Found existing installation: torch 2.5.1
+    Uninstalling torch-2.5.1:
+      Successfully uninstalled torch-2.5.1
+Successfully installed click-8.1.8 joblib-1.4.2 nltk-3.9.1 pillow-11.1.0 scikit-learn-1.6.1 scipy-1.15.2 sentence-transformers-2.2.2 sentencepiece
+-0.2.0 threadpoolctl-3.5.0 torch-2.6.0 torchvision-0.21.0
+
+C:\data>pip install accelerate==0.21.0
+Collecting accelerate==0.21.0
+  Downloading accelerate-0.21.0-py3-none-any.whl.metadata (17 kB)
+Requirement already satisfied: numpy>=1.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from accelerate==0.21.0) (1.2
+4.3)
+Requirement already satisfied: packaging>=20.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from accelerate==0.21.0)
+(24.2)
+Collecting psutil (from accelerate==0.21.0)
+  Downloading psutil-7.0.0-cp37-abi3-win_amd64.whl.metadata (23 kB)
+Requirement already satisfied: pyyaml in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from accelerate==0.21.0) (6.0.2)
+Requirement already satisfied: torch>=1.10.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from accelerate==0.21.0) (2
+.6.0)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.10.0->accelerate==
+0.21.0) (3.17.0)
+Requirement already satisfied: typing-extensions>=4.10.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.1
+0.0->accelerate==0.21.0) (4.12.2)
+Requirement already satisfied: networkx in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.10.0->accelerate==
+0.21.0) (3.4.2)
+Requirement already satisfied: jinja2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.10.0->accelerate==0.
+21.0) (3.1.5)
+Requirement already satisfied: fsspec in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.10.0->accelerate==0.
+21.0) (2025.2.0)
+Requirement already satisfied: sympy==1.13.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.10.0->acceler
+ate==0.21.0) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sympy==1.13.1->to
+rch>=1.10.0->accelerate==0.21.0) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from jinja2->torch>=1.10.
+0->accelerate==0.21.0) (3.0.2)
+Downloading accelerate-0.21.0-py3-none-any.whl (244 kB)
+Downloading psutil-7.0.0-cp37-abi3-win_amd64.whl (244 kB)
+Installing collected packages: psutil, accelerate
+Successfully installed accelerate-0.21.0 psutil-7.0.0
+
+C:\data>pip install typing-extensions==4.6.3
+Collecting typing-extensions==4.6.3
+  Downloading typing_extensions-4.6.3-py3-none-any.whl.metadata (2.8 kB)
+Downloading typing_extensions-4.6.3-py3-none-any.whl (31 kB)
+Installing collected packages: typing-extensions
+  Attempting uninstall: typing-extensions
+    Found existing installation: typing_extensions 4.12.2
+    Uninstalling typing_extensions-4.12.2:
+      Successfully uninstalled typing_extensions-4.12.2
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the fol
+lowing dependency conflicts.
+torch 2.6.0 requires typing-extensions>=4.10.0, but you have typing-extensions 4.6.3 which is incompatible.
+Successfully installed typing-extensions-4.6.3
+
+C:\data>python -c "import numpy, torch, transformers, sentence_transformers; print('All dependencies installed correctly!')"
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\__init__.py", line 75, in <module>
+    from typing_extensions import TypeIs as _TypeIs
+ImportError: cannot import name 'TypeIs' from 'typing_extensions' (C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\typing_ex
+tensions.py)
+
+C:\data>python Untitled-1.py
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 1, in <module>
+    from .DenoisingAutoEncoderDataset import DenoisingAutoEncoderDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\DenoisingAutoEncoderDataset.py", line
+ 1, in <module>
+    from torch.utils.data import Dataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\__init__.py", line 75, in <module>
+    from typing_extensions import TypeIs as _TypeIs
+ImportError: cannot import name 'TypeIs' from 'typing_extensions' (C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\typing_ex
+tensions.py)
+
+C:\data>pip install typing-extensions==4.10.0
+Collecting typing-extensions==4.10.0
+  Using cached typing_extensions-4.10.0-py3-none-any.whl.metadata (3.0 kB)
+Downloading typing_extensions-4.10.0-py3-none-any.whl (33 kB)
+Installing collected packages: typing-extensions
+  Attempting uninstall: typing-extensions
+    Found existing installation: typing_extensions 4.6.3
+    Uninstalling typing_extensions-4.6.3:
+      Successfully uninstalled typing_extensions-4.6.3
+Successfully installed typing-extensions-4.10.0
+
+C:\data>python Untitled-1.py
+C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\generic.py:441: FutureWarning: `torch.utils._pytree._regi
+ster_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4,
+ in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 12, in <module>
+    from huggingface_hub import HfApi, HfFolder, Repository, hf_hub_url, cached_download
+ImportError: cannot import name 'cached_download' from 'huggingface_hub' (C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\hu
+ggingface_hub\__init__.py)
+
+C:\data>pip uninstall -y huggingface-hub
+Found existing installation: huggingface-hub 0.29.1
+Uninstalling huggingface-hub-0.29.1:
+  Successfully uninstalled huggingface-hub-0.29.1
+
+C:\data>pip install huggingface-hub==0.15.1
+Collecting huggingface-hub==0.15.1
+  Downloading huggingface_hub-0.15.1-py3-none-any.whl.metadata (8.0 kB)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (3
+.17.0)
+Requirement already satisfied: fsspec in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (202
+5.2.0)
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (2
+.32.3)
+Requirement already satisfied: tqdm>=4.42.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1
+) (4.67.1)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1)
+ (6.0.2)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub==0.15.1) (4.10.0)
+Requirement already satisfied: packaging>=20.9 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.1
+5.1) (24.2)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm>=4.42.1->huggingface-h
+ub==0.15.1) (0.4.6)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->h
+uggingface-hub==0.15.1) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->huggingface-h
+ub==0.15.1) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub==0.15.1) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub==0.15.1) (2025.1.31)
+Downloading huggingface_hub-0.15.1-py3-none-any.whl (236 kB)
+Installing collected packages: huggingface-hub
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the fol
+lowing dependency conflicts.
+tokenizers 0.15.2 requires huggingface_hub<1.0,>=0.16.4, but you have huggingface-hub 0.15.1 which is incompatible.
+transformers 4.35.2 requires huggingface-hub<1.0,>=0.16.4, but you have huggingface-hub 0.15.1 which is incompatible.
+Successfully installed huggingface-hub-0.15.1
+
+C:\data>pip uninstall -y huggingface-hub
+Found existing installation: huggingface-hub 0.15.1
+Uninstalling huggingface-hub-0.15.1:
+  Successfully uninstalled huggingface-hub-0.15.1
+
+C:\data>pip install huggingface-hub==0.15.1
+Collecting huggingface-hub==0.15.1
+  Using cached huggingface_hub-0.15.1-py3-none-any.whl.metadata (8.0 kB)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (3
+.17.0)
+Requirement already satisfied: fsspec in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (202
+5.2.0)
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1) (2
+.32.3)
+Requirement already satisfied: tqdm>=4.42.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1
+) (4.67.1)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.15.1)
+ (6.0.2)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub==0.15.1) (4.10.0)
+Requirement already satisfied: packaging>=20.9 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub==0.1
+5.1) (24.2)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm>=4.42.1->huggingface-h
+ub==0.15.1) (0.4.6)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->h
+uggingface-hub==0.15.1) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->huggingface-h
+ub==0.15.1) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub==0.15.1) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub==0.15.1) (2025.1.31)
+Using cached huggingface_hub-0.15.1-py3-none-any.whl (236 kB)
+Installing collected packages: huggingface-hub
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the fol
+lowing dependency conflicts.
+tokenizers 0.15.2 requires huggingface_hub<1.0,>=0.16.4, but you have huggingface-hub 0.15.1 which is incompatible.
+transformers 4.35.2 requires huggingface-hub<1.0,>=0.16.4, but you have huggingface-hub 0.15.1 which is incompatible.
+Successfully installed huggingface-hub-0.15.1
+
+C:\data>python Untitled-1.py
+C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\generic.py:441: FutureWarning: `torch.utils._pytree._regi
+ster_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4,
+ in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 11, in <module>
+    import transformers
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\__init__.py", line 26, in <module>
+    from . import dependency_versions_check
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\dependency_versions_check.py", line 57, in <module>
+    require_version_core(deps[pkg])
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 117, in require_version_core
+    return require_version(requirement, hint)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 111, in require_version
+    _compare_versions(op, got_ver, want_ver, requirement, pkg, hint)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 44, in _compare_versions
+    raise ImportError(
+ImportError: huggingface-hub>=0.16.4,<1.0 is required for a normal functioning of this module, but found huggingface-hub==0.15.1.
+Try: pip install transformers -U or pip install -e '.[dev]' if you're working with git main
+
+C:\data>pip install huggingface-hub>=0.16.4
+
+C:\data>python Untitled-1.py
+C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\generic.py:441: FutureWarning: `torch.utils._pytree._regi
+ster_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  _torch_pytree._register_pytree_node(
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4,
+ in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 11, in <module>
+    import transformers
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\__init__.py", line 26, in <module>
+    from . import dependency_versions_check
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\dependency_versions_check.py", line 57, in <module>
+    require_version_core(deps[pkg])
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 117, in require_version_core
+    return require_version(requirement, hint)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 111, in require_version
+    _compare_versions(op, got_ver, want_ver, requirement, pkg, hint)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\transformers\utils\versions.py", line 44, in _compare_versions
+    raise ImportError(
+ImportError: huggingface-hub>=0.16.4,<1.0 is required for a normal functioning of this module, but found huggingface-hub==0.15.1.
+Try: pip install transformers -U or pip install -e '.[dev]' if you're working with git main
+
+C:\data>pip install transformers -U
+Requirement already satisfied: transformers in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (4.35.2)
+Collecting transformers
+  Using cached transformers-4.49.0-py3-none-any.whl.metadata (44 kB)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (3.17.0)
+Collecting huggingface-hub<1.0,>=0.26.0 (from transformers)
+  Using cached huggingface_hub-0.29.1-py3-none-any.whl.metadata (13 kB)
+Requirement already satisfied: numpy>=1.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (1.24.3)
+Requirement already satisfied: packaging>=20.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (24.2)
+
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (202
+4.11.6)
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (2.32.3)
+Collecting tokenizers<0.22,>=0.21 (from transformers)
+  Downloading tokenizers-0.21.0-cp39-abi3-win_amd64.whl.metadata (6.9 kB)
+Requirement already satisfied: safetensors>=0.4.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (0.
+5.2)
+Requirement already satisfied: tqdm>=4.27 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers) (4.67.1)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub<1.0
+,>=0.26.0->transformers) (2025.2.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub<1.0,>=0.26.0->transformers) (4.10.0)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm>=4.27->transformers) (
+0.4.6)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->t
+ransformers) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->transformers)
+ (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->transfo
+rmers) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->transfo
+rmers) (2025.1.31)
+Downloading transformers-4.49.0-py3-none-any.whl (10.0 MB)
+   ---------------------------------------- 10.0/10.0 MB 3.3 MB/s eta 0:00:00
+Using cached huggingface_hub-0.29.1-py3-none-any.whl (468 kB)
+Downloading tokenizers-0.21.0-cp39-abi3-win_amd64.whl (2.4 MB)
+   ---------------------------------------- 2.4/2.4 MB 4.0 MB/s eta 0:00:00
+Installing collected packages: huggingface-hub, tokenizers, transformers
+  Attempting uninstall: huggingface-hub
+    Found existing installation: huggingface-hub 0.15.1
+    Uninstalling huggingface-hub-0.15.1:
+      Successfully uninstalled huggingface-hub-0.15.1
+  Attempting uninstall: tokenizers
+    Found existing installation: tokenizers 0.15.2
+    Uninstalling tokenizers-0.15.2:
+      Successfully uninstalled tokenizers-0.15.2
+  Attempting uninstall: transformers
+    Found existing installation: transformers 4.35.2
+    Uninstalling transformers-4.35.2:
+      Successfully uninstalled transformers-4.35.2
+Successfully installed huggingface-hub-0.29.1 tokenizers-0.21.0 transformers-4.49.0
+
+C:\data>python Untitled-1.py
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4,
+ in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 12, in <module>
+    from huggingface_hub import HfApi, HfFolder, Repository, hf_hub_url, cached_download
+ImportError: cannot import name 'cached_download' from 'huggingface_hub' (C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\hu
+ggingface_hub\__init__.py)
+
+C:\data>pip install --upgrade huggingface-hub
+Requirement already satisfied: huggingface-hub in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (0.29.1)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (3.17.0)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (2
+025.2.0)
+Requirement already satisfied: packaging>=20.9 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (24
+.2)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (6.0.2)
+
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (2.32.3)
+Requirement already satisfied: tqdm>=4.42.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub) (4.67.
+1)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub) (4.10.0)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm>=4.42.1->huggingface-h
+ub) (0.4.6)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->h
+uggingface-hub) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->huggingface-h
+ub) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub) (2025.1.31)
+
+C:\data>python Untitled-1.py
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 3, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4,
+ in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 12, in <module>
+    from huggingface_hub import HfApi, HfFolder, Repository, hf_hub_url, cached_download
+ImportError: cannot import name 'cached_download' from 'huggingface_hub' (C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\hu
+ggingface_hub\__init__.py)
+
+C:\data>pip install --upgrade sentence-transformers
+Requirement already satisfied: sentence-transformers in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (2.2.2)
+Collecting sentence-transformers
+  Using cached sentence_transformers-3.4.1-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: transformers<5.0.0,>=4.41.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence
+-transformers) (4.49.0)
+Requirement already satisfied: tqdm in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers) (4.67.1)
+
+Requirement already satisfied: torch>=1.11.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers)
+ (2.6.0)
+Requirement already satisfied: scikit-learn in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers)
+(1.6.1)
+Requirement already satisfied: scipy in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers) (1.15.2
+)
+Requirement already satisfied: huggingface-hub>=0.20.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-tra
+nsformers) (0.29.1)
+Requirement already satisfied: Pillow in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sentence-transformers) (11.1.
+0)
+Requirement already satisfied: filelock in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.20.0->se
+ntence-transformers) (3.17.0)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.
+20.0->sentence-transformers) (2025.2.0)
+Requirement already satisfied: packaging>=20.9 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.2
+0.0->sentence-transformers) (24.2)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.20.0-
+>sentence-transformers) (6.0.2)
+Requirement already satisfied: requests in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingface-hub>=0.20.0->se
+ntence-transformers) (2.32.3)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from huggingfa
+ce-hub>=0.20.0->sentence-transformers) (4.10.0)
+Requirement already satisfied: networkx in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.11.0->sentence-tra
+nsformers) (3.4.2)
+Requirement already satisfied: jinja2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.11.0->sentence-trans
+formers) (3.1.5)
+Requirement already satisfied: sympy==1.13.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from torch>=1.11.0->sentenc
+e-transformers) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from sympy==1.13.1->to
+rch>=1.11.0->sentence-transformers) (1.3.0)
+Requirement already satisfied: colorama in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from tqdm->sentence-transformers
+) (0.4.6)
+Requirement already satisfied: numpy>=1.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<5.0.0,>=4.4
+1.0->sentence-transformers) (1.24.3)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<5.0.0
+,>=4.41.0->sentence-transformers) (2024.11.6)
+Requirement already satisfied: tokenizers<0.22,>=0.21 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<
+5.0.0,>=4.41.0->sentence-transformers) (0.21.0)
+Requirement already satisfied: safetensors>=0.4.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from transformers<5.0.
+0,>=4.41.0->sentence-transformers) (0.5.2)
+Requirement already satisfied: joblib>=1.2.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from scikit-learn->sentence
+-transformers) (1.4.2)
+Requirement already satisfied: threadpoolctl>=3.1.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from scikit-learn->s
+entence-transformers) (3.5.0)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from jinja2->torch>=1.11.
+0->sentence-transformers) (3.0.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->h
+uggingface-hub>=0.20.0->sentence-transformers) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->huggingface-h
+ub>=0.20.0->sentence-transformers) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub>=0.20.0->sentence-transformers) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hp\appdata\local\programs\python\python311\lib\site-packages (from requests->hugging
+face-hub>=0.20.0->sentence-transformers) (2025.1.31)
+Downloading sentence_transformers-3.4.1-py3-none-any.whl (275 kB)
+Installing collected packages: sentence-transformers
+  Attempting uninstall: sentence-transformers
+    Found existing installation: sentence-transformers 2.2.2
+    Uninstalling sentence-transformers-2.2.2:
+      Successfully uninstalled sentence-transformers-2.2.2
+Successfully installed sentence-transformers-3.4.1
+
+C:\data>python Untitled-1.py
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 7, in <module>
+    import fitz  # PyMuPDF for PDF extraction
+    ^^^^^^^^^^^
+ModuleNotFoundError: No module named 'fitz'
+
+C:\data>pip install pymupdf
+Collecting pymupdf
+  Downloading pymupdf-1.25.3-cp39-abi3-win_amd64.whl.metadata (3.4 kB)
+Downloading pymupdf-1.25.3-cp39-abi3-win_amd64.whl (16.5 MB)
+   ---------------------------------------- 16.5/16.5 MB 3.7 MB/s eta 0:00:00
+Installing collected packages: pymupdf
+Successfully installed pymupdf-1.25.3
+
+C:\data>python Untitled-1.py
+modules.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 349/349 [00:00<?, ?B/s]
+C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\file_download.py:142: UserWarning: `huggingface_hub` cache-s
+ystem uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\hp\.cache\huggingface\hub\
+models--sentence-transformers--all-MiniLM-L6-v2. Caching files will still work but in a degraded version that might require more space on your dis
+k. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.c
+o/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mo
+de, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+config_sentence_transformers.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 116/116 [00:00<00:00, 629kB/s]
+README.md: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 10.7k/10.7k [00:00<00:00, 10.7MB/s]
+sentence_bert_config.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 53.0/53.0 [00:00<00:00, 53.2kB/s]
+config.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 612/612 [00:00<00:00, 653kB/s]
+model.safetensors: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 90.9M/90.9M [00:24<00:00, 3.75MB/s]
+tokenizer_config.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 350/350 [00:00<00:00, 361kB/s]
+vocab.txt: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 232k/232k [00:00<00:00, 1.32MB/s]
+tokenizer.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 466k/466k [00:00<00:00, 2.48MB/s]
+special_tokens_map.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 112/112 [00:00<?, ?B/s]
+1_Pooling%2Fconfig.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 190/190 [00:00<?, ?B/s]
+config.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 571/571 [00:00<?, ?B/s]
+C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\file_download.py:142: UserWarning: `huggingface_hub` cache-s
+ystem uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\hp\.cache\huggingface\hub\
+models--deepset--roberta-base-squad2. Caching files will still work but in a degraded version that might require more space on your disk. This war
+ning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/hugg
+ingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mo
+de, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+model.safetensors: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 496M/496M [02:12<00:00, 3.75MB/s]
+tokenizer_config.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 79.0/79.0 [00:00<?, ?B/s]
+vocab.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 899k/899k [00:00<00:00, 1.47MB/s]
+merges.txt: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 456k/456k [00:00<00:00, 6.05MB/s]
+special_tokens_map.json: 100%|¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 772/772 [00:00<?, ?B/s]
+Device set to use cpu
+Traceback (most recent call last):
+  File "C:\data\Untitled-1.py", line 78, in <module>
+    add_document("sample.pdf", extract_text_from_pdf("sample.pdf"))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\data\Untitled-1.py", line 47, in extract_text_from_pdf
+    doc = fitz.open(pdf_path)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\pymupdf\__init__.py", line 2918, in __init__
+    raise FileNotFoundError(msg)
+pymupdf.FileNotFoundError: no such file: 'sample.pdf'
+
+C:\data>
+
+
+
+
+
