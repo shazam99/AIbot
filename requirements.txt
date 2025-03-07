@@ -14,6 +14,7 @@ Cython==3.0.12
 decorator==5.2.1
 exceptiongroup==1.2.2
 fastapi==0.115.11
+faiss-cpu
 filelock==3.17.0
 fire==0.7.0
 fonttools==4.56.0
