@@ -12,8 +12,8 @@ from fastapi.middleware.cors import CORSMiddleware
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load extractive question-answering model (no API key needed)
-qa_model = pipeline("question-answering", model="deepset/roberta-base-squad2", device=0 if torch.cuda.is_available() else -1)
-
+# qa_model = pipeline("question-answering", model="deepset/roberta-base-squad2", device=0 if torch.cuda.is_available() else -1)
+qa_model = pipeline("text2text-generation", model="google/flan-t5-large", device=0 if torch.cuda.is_available() else -1)
 # Load Mistral 7B (Hugging Face Model)
 # model_name = "tiiuae/falcon-7b-instruct"
 # tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -65,9 +65,9 @@ def answer_query(query):
     # response = tokenizer.decode(output[0], skip_special_tokens=True)
     print(best_para)
 
-    result = qa_model(question=query, context=best_para)
+    response = qa_model(f"question: {query} context: {best_para}", max_new_tokens=200)
     
-    return {"answer": result["answer"], "source_paragraph": best_para, "document": doc_name}
+    return {"answer": response[0]['generated_text'], "source_paragraph": best_para, "document": doc_name}
 # add_document("Advisory-on-Independent-Due-Diligence by-Operating-Units.pdf", extract_text_from_pdf("Advisory-on-Independent-Due-Diligence by-Operating-Units.pdf"))
 # print(answer_query("Give me circular date?"))
 # FastAPI Setup
@@ -96,5 +96,96 @@ async def upload_document(file: UploadFile = File(...)):
 def query_document(q: str = Query(..., description="Enter your query")):
     result = answer_query(q)
     return result
+
+
+import os
+import cv2
+import uuid
+from fastapi import FastAPI, UploadFile, File
+from fastapi.responses import JSONResponse
+from pdf2image import convert_from_path
+import shutil
+
+
+POPPLER_PATH = "/opt/homebrew/bin"
+
+def convert_pdf_to_images(pdf_path, output_folder):
+    images = convert_from_path(pdf_path, poppler_path=POPPLER_PATH)
+    image_paths = []
+    for i, img in enumerate(images):
+        path = os.path.join(output_folder, f"page_{i + 1}.jpg")
+        img.save(path, "JPEG")
+        image_paths.append(path)
+    return image_paths
+
+def crop_top_right(image, height_percent=0.10, width_percent=0.30):
+    h, w = image.shape[:2]
+    crop_h = int(h * height_percent)
+    crop_w = int(w * width_percent)
+    return image[0:crop_h, w - crop_w:w]
+
+def match_logo_sift(logo_img, target_img, min_matches=10):
+    sift = cv2.SIFT_create()
+    kp1, des1 = sift.detectAndCompute(logo_img, None)
+    kp2, des2 = sift.detectAndCompute(target_img, None)
+
+    if des1 is None or des2 is None:
+        return False, 0
+
+    bf = cv2.BFMatcher()
+    matches = bf.knnMatch(des1, des2, k=2)
+    good = [m for m, n in matches if m.distance < 0.75 * n.distance]
+    return len(good) >= min_matches, len(good)
+
+@app.post("/check-logo/")
+async def check_logo(pdf: UploadFile = File(...), logo: UploadFile = File(...)):
+    # Create a temp working directory
+    session_id = str(uuid.uuid4())
+    work_dir = f"temp_{session_id}"
+    os.makedirs(work_dir, exist_ok=True)
+
+    # Save uploaded files
+    pdf_path = os.path.join(work_dir, "input.pdf")
+    logo_path = os.path.join(work_dir, "logo.png")
+    with open(pdf_path, "wb") as f:
+        shutil.copyfileobj(pdf.file, f)
+    with open(logo_path, "wb") as f:
+        shutil.copyfileobj(logo.file, f)
+
+    logo_img = cv2.imread(logo_path, cv2.IMREAD_GRAYSCALE)
+    image_paths = convert_pdf_to_images(pdf_path, work_dir)
+    results = []
+
+    for i, img_path in enumerate(image_paths):
+        page_img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
+        cropped = crop_top_right(page_img)
+
+        found, match_count = match_logo_sift(logo_img, cropped, min_matches=10)
+        if match_count < 80:
+            found = False
+
+        results.append({
+            "page": i + 1,
+            "logo_found": found,
+            "match_score": match_count
+        })
+
+        os.remove(img_path)
+
+    # Cleanup
+    os.remove(pdf_path)
+    os.remove(logo_path)
+    os.rmdir(work_dir)
+
+    return JSONResponse(content={"result": results})
+
+
+# **Ensure app binds to correct port for Render**
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Default to 8000 if PORT is not set
+    uvicorn.run(app, host="0.0.0.0", port=port)
+
+
+
 
 # Run with: uvicorn filename:app --reload
